@@ -6,11 +6,11 @@ body {
     display: flex;
     flex-direction: column;
     height: 100vh;
-    background-color: #f0f0f0;
+    background-color: #3d405b;
 }
 
 header {
-    background-color: #4a6afa;
+    background-color: #f2cc8f;
     color: white;
     text-align: center;
     padding: 1em 0;
@@ -30,18 +30,18 @@ main {
 }
 
 .slide {
-    background-color: white;
+    background-color: #f4f1de;
     padding: 2em;
     margin: 1em 0;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    box-shadow: 0 0 10px #3d405b;
     width: 80%;
     max-width: 800px;
     text-align: center;
 }
 
 footer {
-    background-color: #4a6afa;
-    color: white;
+    background-color: #f2cc8f;
+    color: #f4f1de;
     text-align: center;
     padding: 1em 0;
 }
