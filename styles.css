@@ -6,12 +6,12 @@ body {
     display: flex;
     flex-direction: column;
     height: 100vh;
-    background-color: #3d405b;
+    background-color: #f4f1de;
 }
 
 header {
     background-color: #f2cc8f;
-    color: white;
+    color: #3d405b;
     text-align: center;
     padding: 1em 0;
 }
@@ -30,7 +30,7 @@ main {
 }
 
 .slide {
-    background-color: #f4f1de;
+    background-color: #f2cc8f;
     padding: 2em;
     margin: 1em 0;
     box-shadow: 0 0 10px #3d405b;
